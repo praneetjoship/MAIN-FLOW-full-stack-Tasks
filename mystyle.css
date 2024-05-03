@@ -1,0 +1,49 @@
+nav
+{
+    padding:25px;
+    background-color:slateblue; 
+}
+nav a
+{
+     margin-right:100px;
+     text-align:right;
+     font-size:15px;
+     font-family:verdana;
+     color:white;
+}
+header
+{
+  
+  padding:30px;
+  font-size:24px;
+  padding-bottom:55px;
+  font-family:arial black;
+  text-decoration:oveline underline;
+}
+h2
+{
+   padding-left:25px;
+}
+p
+{
+   padding-left:25px;
+   padding-bottom:110px;
+}
+h4
+{
+    text-decoration:underline;
+    padding-left:25px;
+    font-size:20px;  
+}
+h6
+{
+   font-size:16px;
+   padding-left:25px;
+   padding-bottom:40px;
+   font-weight:lighter;
+}
+footer
+{
+     text-align:center;
+     border:2.5px solid slateblue;
+}
