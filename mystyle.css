@@ -47,3 +47,25 @@ footer
      text-align:center;
      border:2.5px solid slateblue;
 }
+.container 
+{
+   width:900px;
+   margin:0 auto;
+   padding: 0 20px;
+   box-sizing: border-box;
+}
+@media (max-width:800px) 
+{
+   .container
+   {
+      width:80%;
+   }
+}
+@media (max-width:480px) 
+{
+   .container
+   {
+      width:100%;
+      padding:8px;
+   }
+}
